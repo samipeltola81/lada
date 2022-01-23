@@ -1,0 +1,13 @@
+{
+  "transportation_units" :[
+    {
+      "trackingCode" : "trackingCode001",
+      "creationDate" : "2018-03-07T20:57:55+02:00"
+    },
+    {
+      "trackingCode" : "trackingCode002",
+      "creationDate" : "2018-03-05T19:50:55+02:00"
+    }
+  ]
+}
+

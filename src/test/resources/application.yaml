@@ -1,0 +1,10 @@
+
+spring:
+  logging:
+    level:
+      org.springframework.web: INFO
+      fi.turskacreations.ladaapi: DEBUG
+  data:
+    mongodb:
+      host: localhost
+      port: 0

@@ -1,0 +1,20 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /lada
+
+spring:
+  logging:
+    level:
+      org.springframework.web: INFO
+      fi.turskacreations.ladaapi: DEBUG
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      uri: mongodb://localhost/lada
+
+---
+
+spring:
+  profiles: dit
